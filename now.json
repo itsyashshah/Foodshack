@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "env": {
+    "GATSBY_SHOP_NAME": "foodshackstore",
+    "GATSBY_SHOPIFY_ACCESS_TOKEN": "495ed6cda2a87b0b5b5335f3d6c1a50e",
+    "GATSBY_PRISMIC_REPOSITORY": "foodshack"
+  },
+  "build": {
+    "env": {
+      "GATSBY_SHOP_NAME": "foodshackstore",
+      "GATSBY_SHOPIFY_ACCESS_TOKEN": "495ed6cda2a87b0b5b5335f3d6c1a50e",
+      "GATSBY_PRISMIC_REPOSITORY": "foodshack"
+    }
+  }
+}
