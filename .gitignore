@@ -75,3 +75,4 @@ apollo.config.js
 
 # GraphQl typegen
 __generated__
+.vercel
